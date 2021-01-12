@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>Blazedemo</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="Blazedemo.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="Blazedemo.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="WebSocketBuffer.h" Filter="2" />
+    <FileEntry Name="WebSocketCB.c" Filter="2" />
+    <FileEntry Name="address.dat" Filter="2" />
+    <FileEntry Name="From.dat" Filter="2" />
+    <FileEntry Name="cardMonth.dat" Filter="2" />
+    <FileEntry Name="cardType.dat" Filter="2" />
+    <FileEntry Name="ToPort.dat" Filter="2" />
+    <FileEntry Name="cardYear.dat" Filter="2" />
+    <FileEntry Name="Name.dat" Filter="2" />
+    <FileEntry Name="city.dat" Filter="2" />
+    <FileEntry Name="state.dat" Filter="2" />
+    <FileEntry Name="nameonCard.dat" Filter="2" />
+    <FileEntry Name="creditNumber.dat" Filter="2" />
+    <FileEntry Name="zipCode.dat" Filter="2" />
+    <FileEntry Name="combined_Blazedemo.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="1485070440.idx" Filter="1" />
+    <FileEntry Name="150055254440.idx" Filter="1" />
+    <FileEntry Name="172657510440.idx" Filter="1" />
+    <FileEntry Name="20026124440.idx" Filter="1" />
+    <FileEntry Name="203311884440.idx" Filter="1" />
+    <FileEntry Name="237412512440.idx" Filter="1" />
+    <FileEntry Name="238214564440.idx" Filter="1" />
+    <FileEntry Name="251881981440.idx" Filter="1" />
+    <FileEntry Name="262171437440.idx" Filter="1" />
+    <FileEntry Name="4136949440.idx" Filter="1" />
+    <FileEntry Name="43895348440.idx" Filter="1" />
+    <FileEntry Name="53925210440.idx" Filter="1" />
+    <FileEntry Name="Blazedemo.c.pickle" Filter="1" />
+    <FileEntry Name="Blazedemo.ci" Filter="1" />
+    <FileEntry Name="Blazedemo.prm.bak" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
